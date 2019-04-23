@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coles World Square",
+        "hours": "6am - 12am",
+        "phone": "(02) 9283 3121",
+        "description": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.207000,
+          -33.877000
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woolworths Sydney Metcentre",
+        "hours": "6am - 8pm",
+        "phone": "(02) 8565 9236",
+        "description": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.206700,
+          -33.864800
+        ]
+      }
+    },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "SUPA IGA Pyrmont",
+            "hours": "7am - 11pm",
+            "phone": "(02) 9571 5199",
+            "description": "Supermarket"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              151.193,
+              -33.87055
+            ]
+          }
+        },
+    {
+          "type": "Feature",
+          "properties": {
+            "name": "ALDI Darlinghurst",
+            "hours": "8:30am - 8pm",
+            "phone": "(02) 1898 2569",
+            "description": "Supermarket"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              151.213500,
+              -33.878700
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Coles Broadway",
+            "hours": "6am - 12am",
+            "phone": "(02) 8333 9200",
+            "description": "Supermarket"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              151.194000,
+              -33.883700
+            ]
+          }
+        },
+            {
+              "type": "Feature",
+              "properties": {
+                "name": "Woolworths Metro",
+                "hours": "6am - 8pm",
+                "phone": "(02) 4121 5892",
+                "description": "Supermarket"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  151.20571,
+                  -33.86796
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "name": "Norton St Grocer",
+                "hours": "8am - 7pm",
+                "phone": "(02) 9572 7511",
+                "description": "Supermarket"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  151.158000,
+                  -33.886200
+                ]
+              }
+            },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IGA X-press",
+        "hours": "8am - 7pm",
+        "phone": "(02) 9221 5925",
+        "description": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.211400,
+          -33.862900
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woolworths Town Hall",
+        "hours": "6am - 12am",
+        "phone": "(02) 8565 9275",
+        "description": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.207200,
+          -33.873100
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woolworths Haymarket",
+        "hours": "7am - 12am",
+        "phone": "(02) 8736 7467",
+        "description": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.202700,
+          -33.881000
+        ]
+      }
+    }
+  ]
+}
